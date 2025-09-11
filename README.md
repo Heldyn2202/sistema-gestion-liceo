@@ -28,6 +28,7 @@ Una aplicación web completa desarrollada para automatizar y centralizar la gest
 bash git clone https://github.com/Heldyn2202/sistema-gestion-liceo.git
 
 2. **Importar la base de datos**:sige
+   
 Ejecutar el archivo sige.sql en MySQL
 
 3. **Configurar conexión a la base de datos**:
