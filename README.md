@@ -1,27 +1,32 @@
-# 🎓 Sistema de Gestión de Inscripción y Carga de Notas
-
+🎓 Sistema de Gestión de Inscripción y Carga de Notas
 Una aplicación web completa desarrollada para automatizar y centralizar la gestión académica de un liceo. El sistema permite la administración eficiente del proceso de inscripción de estudiantes y la carga segura de calificaciones por parte de los docentes.
 
-## ✨ Características Principales
+✨ Características Principales
+Módulo de Inscripción: Registro de nuevos estudiantes con toda su información personal y académica.
 
-- **Módulo de Inscripción:** Registro de nuevos estudiantes con toda su información personal y académica.
-- **Módulo de Carga de Notas:** Interfaz intuitiva para que los profesores ingresen las calificaciones de los alumnos.
-- **Gestión de Usuarios:** Diferentes niveles de acceso (administrador, docente, secretaría).
-- **Dashboard Informativo:** Visualización de datos relevantes y reportes básicos.
-- **Base de Datos Segura:** Almacenamiento estructurado y protegido de la información académica.
+Módulo de Carga de Notas: Interfaz intuitiva para que los profesores ingresen las calificaciones de los alumnos.
 
-## 🛠️ Stack Tecnológico
+Gestión de Usuarios: Diferentes niveles de acceso (administrador, docente, secretaría).
 
-- **Backend:** PHP Nativo
-- **Frontend:** HTML5, CSS3, JavaScript, Bootstrap, SweetAlert2
-- **Base de Datos:** MySQL
-- **Servidor:** Apache/XAMPP
-- **Control de Versiones:** Git + GitHub
+Dashboard Informativo: Visualización de datos relevantes y reportes básicos.
 
-# 📦 Instalación y Uso
+Base de Datos Segura: Almacenamiento estructurado y protegido de la información académica.
 
-1. Clonar el repositorio:
-```bash
+🛠️ Stack Tecnológico
+Backend: PHP Nativo
+
+Frontend: HTML5, CSS3, JavaScript, Bootstrap, SweetAlert2
+
+Base de Datos: MySQL
+
+Servidor: Apache/XAMPP
+
+Control de Versiones: Git + GitHub
+
+📦 Instalación y Uso
+Clonar el repositorio:
+
+bash
 git clone https://github.com/Heldyn2202/sistema-gestion-liceo.git
 Importar la base de datos:
 Ejecutar el archivo sige.sql en MySQL
