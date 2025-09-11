@@ -37,21 +37,21 @@ Editar el archivo de configuración en sige/config/ con tus credenciales
 Abrir en el navegador: http://localhost/sistemagestion_notas/sige/
 
 ## 👤 Credenciales de Prueba
-Administrador:
+**Administrador**:
 
-Usuario: admin@gmail.com
+**Usuario**: admin@gmail.com
 
-Contraseña: 123456
+**Contraseña**: 123456
 
-Permisos: Acceso completo al sistema
+**Permiso**s: Acceso completo al sistema
 
-Profesor:
+**Profesor**:
 
-Usuario:---
+**Usuario**:---
 
-Contraseña: ---
+**Contraseña**: ---
 
-Permisos: Carga de notas y gestión de estudiantes
+**Permisos**: Carga de notas y gestión de estudiantes
 
 ## 🎯 Objetivo del Proyecto
 Este proyecto fue desarrollado como parte de mi formación en Ingeniería en Informática, con el objetivo de aplicar conocimientos full-stack en un entorno real y resolver una necesidad concreta de gestión educativa.
