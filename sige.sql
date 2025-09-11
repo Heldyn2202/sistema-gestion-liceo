@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Servidor: 127.0.0.1
--- Tiempo de generación: 18-08-2025 a las 02:12:30
+-- Tiempo de generación: 13-05-2025 a las 20:40:29
 -- Versión del servidor: 10.4.32-MariaDB
 -- Versión de PHP: 8.2.12
 
@@ -740,7 +740,7 @@ CREATE TABLE `profesores` (
 --
 
 INSERT INTO `profesores` (`id_profesor`, `cedula`, `nombres`, `apellidos`, `email`, `telefono`, `especialidad`, `estado`, `fecha_creacion`, `fecha_actualizacion`, `usuario`, `password`) VALUES
-(1, 'v12345678', 'Juan', 'Pérez', 'juan.perez@example.com', '11987654321', 'Matemáticas', 1, '2025-05-13 14:15:38', '2025-06-12 19:36:22', 1, 'e10adc3949ba59abbe56e057f20f883e');
+(1, '1234567890', 'Juan', 'Pérez', 'juan.perez@example.com', '0987654321', 'Matemáticas', 1, '2025-05-13 14:15:38', NULL, 1, 'e10adc3949ba59abbe56e057f20f883e');
 
 -- --------------------------------------------------------
 
@@ -794,7 +794,7 @@ CREATE TABLE `representantes` (
 INSERT INTO `representantes` (`id_representante`, `tipo_cedula`, `cedula`, `nombres`, `apellidos`, `fecha_nacimiento`, `estado_civil`, `afinidad`, `genero`, `correo_electronico`, `tipo_sangre`, `direccion`, `numeros_telefonicos`, `estatus`, `created_at`) VALUES
 (1, 'V', 14023560, 'Carlos Alberto', 'Pérez López', '1980-05-10', 'Casado', '', 'masculino', 'carlosperez@gmail.com', 'O+', 'Caracas', '04121234501', 'Inactivo', '2025-01-24 11:59:04'),
 (2, 'V', 14023561, 'Ana María', 'González Torres', '1985-06-15', 'Soltero', '', 'femenino', 'anamaria@gmail.com', 'A+', 'Caracas', '04121234502', 'Inactivo', '2025-01-24 11:59:04'),
-(3, 'V', 13023562, 'Luis Fernando', 'Martínez Ruiz', '1990-07-20', 'Soltero', '', 'masculino', 'luisfernando@gmail.com', 'B+', 'Caracas', '04121234502', 'Activo', '2025-01-24 11:59:04'),
+(3, 'V', 13023562, 'Luis Fernando', 'Martínez Ruiz', '1990-07-20', 'Casado', '', 'masculino', 'luisfernando@gmail.com', 'B+', 'Caracas', '04121234503', 'Activo', '2025-01-24 11:59:04'),
 (4, 'V', 13023563, 'Sofía Valentina', 'Ramírez Pérez', '1995-08-25', 'Soltero', '', 'femenino', 'sofiaramirez@gmail.com', 'AB+', 'Caracas', '04121234504', 'Activo', '2025-01-24 11:59:04'),
 (5, 'V', 10023564, 'Diego Armando', 'Hernández Ruiz', '1988-09-30', 'Casado', '', 'masculino', 'diegohernandez@gmail.com', 'O-', 'Caracas', '04121234505', 'Activo', '2025-01-24 11:59:04'),
 (6, 'V', 10023565, 'María José', 'López García', '1992-10-05', 'Soltero', '', 'femenino', 'mariajose@gmail.com', 'B-', 'Caracas', '04121234506', 'Activo', '2025-01-24 11:59:04'),
