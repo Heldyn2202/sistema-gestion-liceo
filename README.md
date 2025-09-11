@@ -1,8 +1,8 @@
-# Sistema de Gestión de Inscripción y Carga de Notas
+# 🎓 Sistema de Gestión de Inscripción y Carga de Notas
 
 Una aplicación web completa desarrollada para automatizar y centralizar la gestión académica de un liceo. El sistema permite la administración eficiente del proceso de inscripción de estudiantes y la carga segura de calificaciones por parte de los docentes.
 
-## 🚀 Características Principales
+## ✨ Características Principales
 
 - **Módulo de Inscripción:** Registro de nuevos estudiantes con toda su información personal y académica.
 - **Módulo de Carga de Notas:** Interfaz intuitiva para que los profesores ingresen las calificaciones de los alumnos.
@@ -12,27 +12,53 @@ Una aplicación web completa desarrollada para automatizar y centralizar la gest
 
 ## 🛠️ Stack Tecnológico
 
-- **Backend:** PHP (Laravel o Nativo, dependiendo de tu proyecto)
-- **Frontend:** HTML, CSS, JavaScript, SweetAlert2
+- **Backend:** PHP Nativo
+- **Frontend:** HTML5, CSS3, JavaScript, Bootstrap, SweetAlert2
 - **Base de Datos:** MySQL
 - **Servidor:** Apache/XAMPP
+- **Control de Versiones:** Git + GitHub
 
 ## 📦 Instalación y Uso
 
-1.  Clona el repositorio: `git clone [url-de-tu-repositorio]`
-2.  Importa la base de datos (el archivo `.sql` incluido).
-3.  Configura las credenciales de la base de datos en el archivo `config.php`.
-4.  Abre el proyecto en tu servidor local (ej: XAMPP).
+1. Clonar el repositorio:
+```bash
+git clone https://github.com/Heldyn2202/sistema-gestion-liceo.git
 
-## 👨‍💻 Objetivo del Proyecto
+👤 Credenciales de Prueba
+Administrador:
 
+Usuario: admin
+
+Contraseña: admin123
+
+Permisos: Acceso completo al sistema
+
+Profesor:
+
+Usuario: profesor01
+
+Contraseña: prof123
+
+Permisos: Carga de notas y gestión de estudiantes
+
+🎯 Objetivo del Proyecto
 Este proyecto fue desarrollado como parte de mi formación en Ingeniería en Informática, con el objetivo de aplicar conocimientos full-stack en un entorno real y resolver una necesidad concreta de gestión educativa.
 
-## 🔮 Próximas Características
+🔮 Próximas Características
+Generación de reportes en PDF (boletines de notas)
 
-- Generación de reportes en PDF (boletines de notas).
-- Panel de consulta para padres y alumnos.
-- Implementación de más validaciones y seguridad.
+Panel de consulta para padres y alumnos
 
----
-✨ *Desarrollado por Heldyn Díaz* | [LinkedIn] https://www.linkedin.com/in/heldyn-diaz-daboin-17306822b/
+Implementación de más validaciones y seguridad
+
+API REST para integración con otros sistemas
+
+👨‍💻 Developer
+Heldyn Díaz
+https://img.shields.io/badge/LinkedIn-Heldyn_D%C3%ADaz-blue?style=flat&logo=linkedin
+https://img.shields.io/badge/GitHub-Heldyn2202-black?style=flat&logo=github
+
+📄 Licencia
+Este proyecto es de código abierto y está disponible bajo la Licencia MIT.
+
+⭐ ¡Si este proyecto te resulta útil, déjale una estrella en GitHub!
