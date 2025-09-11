@@ -68,7 +68,7 @@ API REST para integración con otros sistemas
 ## 👨‍💻 Developer
 Heldyn Díaz
 
-https://img.shields.io/badge/LinkedIn-Heldyn_D%25C3%25ADaz-blue?style=flat&logo=linkedin
+| [LinkedIn] https://www.linkedin.com/in/heldyn-diaz-daboin-17306822b/ 
 https://img.shields.io/badge/GitHub-Heldyn2202-black?style=flat&logo=github
 
 ## 📄 Licencia
