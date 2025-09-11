@@ -33,7 +33,7 @@ Ejecutar el archivo sige.sql en MySQL
 3. **Configurar conexión a la base de datos**:
 Editar el archivo de configuración en sige/config/ con tus credenciales
 
-**Acceder al sistema**:
+4. **Acceder al sistema**:
 Abrir en el navegador: http://localhost/sistemagestion_notas/sige/
 
 ## 👤 Credenciales de Prueba
