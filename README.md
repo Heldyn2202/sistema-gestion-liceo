@@ -72,4 +72,4 @@ https://img.shields.io/badge/GitHub-Heldyn2202-black?style=flat&logo=github
 ## 📄 Licencia
 Este proyecto es de código abierto y está disponible bajo la Licencia MIT.
 
-⭐ ¡Si este proyecto te resulta útil, déjale una estrella en GitHub!
+## ⭐ ¡Si este proyecto te resulta útil, déjale una estrella en GitHub!
