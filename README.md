@@ -1,4 +1,4 @@
-🎓 Sistema de Gestión de Inscripción y Carga de Notas
+##🎓 Sistema de Gestión de Inscripción y Carga de Notas
 Una aplicación web completa desarrollada para automatizar y centralizar la gestión académica de un liceo. El sistema permite la administración eficiente del proceso de inscripción de estudiantes y la carga segura de calificaciones por parte de los docentes.
 
 ✨ Características Principales
