@@ -23,7 +23,8 @@ Una aplicación web completa desarrollada para automatizar y centralizar la gest
 1. Clonar el repositorio:
 ```bash
 git clone https://github.com/Heldyn2202/sistema-gestion-liceo.git
-Importar la base de datos:
+
+2. Importar la base de datos:sige
 
 Ejecutar el archivo sige.sql en MySQL
 
@@ -38,9 +39,9 @@ Abrir en el navegador: http://localhost/sistemagestion_notas/sige/
 ## 👤 Credenciales de Prueba
 Administrador:
 
-Usuario:
+Usuario:admin@gmail.com
 
-Contraseña:
+Contraseña:123456
 
 Permisos: Acceso completo al sistema
 
