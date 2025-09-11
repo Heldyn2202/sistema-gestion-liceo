@@ -27,7 +27,7 @@ if (!defined('APP_NAME')) {
 }  
 
 if (!defined('APP_URL')) {  
-    define('APP_URL', 'http://localhost/proyectonuevo/sige');  
+    define('APP_URL', 'http://localhost/sistemagestion_notas/sige');  
 }  
 
 if (!defined('KEY_API_MAPS')) {  
