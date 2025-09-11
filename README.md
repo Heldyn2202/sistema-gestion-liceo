@@ -43,7 +43,7 @@ Abrir en el navegador: http://localhost/sistemagestion_notas/sige/
 
 **Contraseña**: 123456
 
-**Permiso**s: Acceso completo al sistema
+**Permisos**: Acceso completo al sistema
 
 **Profesor**:
 
