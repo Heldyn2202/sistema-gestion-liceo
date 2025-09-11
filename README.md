@@ -24,13 +24,13 @@ Una aplicación web completa desarrollada para automatizar y centralizar la gest
 **Control de Versiones**: Git + GitHub
 
 ## 📦 Instalación y Uso
-**Clonar el repositorio**:
-bash
-git clone https://github.com/Heldyn2202/sistema-gestion-liceo.git
-Importar la base de datos:sige
+1. **Clonar el repositorio**:
+bash git clone https://github.com/Heldyn2202/sistema-gestion-liceo.git
+
+2. **Importar la base de datos**:sige
 Ejecutar el archivo sige.sql en MySQL
 
-**Configurar conexión a la base de datos**:
+3. **Configurar conexión a la base de datos**:
 Editar el archivo de configuración en sige/config/ con tus credenciales
 
 **Acceder al sistema**:
